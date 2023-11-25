@@ -1,6 +1,6 @@
 En este repositorio se añadirán los módulos de información multimedia para la realiación de la tarea de aprendizaje 3.
 Se subirán la imagen y el sonido. Después se modificarán y se volverán a subir.
-También se realizará la gestion de los archivos bonarios con GLFS.
+También se realizará la gestion de los archivos binarios con GLFS.
 
 Además de subir el sonido en formato .mp3, también se sube el archivo de Audacity para poder realizar cambios en el sonido, por pistas, si fuera necesario.
 También son necesarios los archivos de sonido que genera el programa Audacity, de modo que se suben en una carpeta comprimida.
